@@ -1,6 +1,4 @@
 // $_FILEHEADER_BEGIN ****************************
-// 北京八度互联科技有限公司版权所有
-// Copyright (C) Badu Corporation.  All Rights Reserved
 // 文件名称：my_qort_sort.cpp
 // 创建日期：2015年08月10日
 // 创建人：  LiZunju
