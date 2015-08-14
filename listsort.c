@@ -36,8 +36,6 @@ void insertList(DuLinkList L,ElemType elem)
 
 void traverseList(DuLinkList L)
 {
-    //int cnt=1;
-
     while(L->next)
     { 
         printf("%d   ",L->data);
