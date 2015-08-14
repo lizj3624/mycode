@@ -122,6 +122,6 @@ int main()
     RevserseLink( pstHead );
     PrintLink( pstHead );
 
-    LinkFree( pstHead );
+    LinkFree(pstHead);
     return 0;
 }
