@@ -1,6 +1,4 @@
 // $_FILEHEADER_BEGIN ****************************
-// 北京八度互联科技有限公司版权所有
-// Copyright (C) Badu Corporation.  All Rights Reserved
 // 文件名称：my_strcmp.c
 // 创建日期：2015年08月25日
 // 创建人：  LiZunju
